@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "ytDemo"
+  title: "Youtube Demo Quarto Website"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Favorites.qmd
 
 format:
   html:

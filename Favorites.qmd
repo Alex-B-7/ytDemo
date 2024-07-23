@@ -1,0 +1,15 @@
+---
+title: "Favorites"
+---
+
+### Favorite colors
+
+-   Blue
+
+-   Purple
+
+### Favorite dog breeds
+
+-   Labrador
+
+-   Golden Retriever
