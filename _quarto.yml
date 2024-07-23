@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: sandstone
+    theme: darkly
     mainfont: arial
     fontsize: 1.5rem
     fontcolor: "#0013d5"
